@@ -28,5 +28,9 @@
     "homepage": "https://github.com/zetacomponents",
     "license": "apache2",
     "name": "zetacomponents/mvc-feed-tiein",
-    "type": "library"
+    "type": "library",
+    "require": {
+        "zetacomponents/mvc-tools": "~1.1",
+        "zetacomponents/feed": "~1.3"
+    },
 }
